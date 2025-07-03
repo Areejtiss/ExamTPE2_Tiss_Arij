@@ -1,3 +1,4 @@
 data=[1,3,5]
-som =sum(data)
-print('la somme est :',som)
+print('la somme est : ', sum(data))
+print('le min est :',min(data))
+print('le max est :',max(data))
